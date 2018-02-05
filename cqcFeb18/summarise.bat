@@ -1,8 +1,8 @@
 @echo off
 for %%t in (groupedBrandsAndProviders groupedBrandsAndLocations inadequateReports overallInadequateReports) do call :makeHtml %%t
 
-sqlite3 -header -csv cqcFeb18.db "SELECT * FROM localAuthorityRatings;" | csvRewrite -css summaries.css -s > summaries\cqcFeb15RatingByLA.html
-sqlite3 -header -csv cqcFeb18.db "SELECT * FROM localAuthorityRatings;" | csvRewrite > summaries\cqcFeb15RatingByLA.csv
+sqlite3 -header -csv cqcFeb18.db "SELECT * FROM localAuthorityRatings;" | csvRewrite -css summaries.css -s > summaries\cqcFeb18RatingByLA.html
+sqlite3 -header -csv cqcFeb18.db "SELECT * FROM localAuthorityRatings;" | csvRewrite > summaries\cqcFeb18RatingByLA.csv
 
 pushd summaries
 pandoc -c summaries.css -s -o index.html -f markdown -t html5 summary.md
