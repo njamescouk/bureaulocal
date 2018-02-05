@@ -1,0 +1,957 @@
+                       STATEMENT OF ACCOUNTS 2016/17 
+                                           
+                     GROUP BALANCE SHEET AS AT 31st MARCH 2017 
+                                           
+    
+                                                                   
+                2015/16                              2016/17   2016/17 
+                                                                   
+                 £000s                                £000s     £000s 
+                         NON-CURRENT ASSETS                    
+                         Property Plant and Equipment:         
+                   402,754    - Council Dwellings       547,756        
+                   398,564    - Other Land & Buildings  400,330        
+                    6,494    - Vehicles, Plant, Furniture & Equipment 4,846    
+                   242,304    - Infrastructure Assets   248,838        
+                       -    - Community Assets              -          
+                    5,334    - Assets Under Construction    -          
+                    1,501    - Surplus Assets            5,289         
+                 1,056,951                                     1,207,059  
+                                                                       
+                    10,427   Heritage Assets            10,427         
+                    2,159   Intangible Assets            2,064         
+                    13,899   Long Term Investments      11,874         
+                    3,712   Long Term Debtors            3,009         
+                   30,197                                        27,374  
+                 1,087,148   Total Non-Current Assets          1,234,433  
+                                                                       
+                         CURRENT ASSETS                                
+                    4,780   Assets ‘Held for Sale’       3,028         
+                    5,066   Short Term Investments      17,027         
+                    1,665   Inventories                  1,784         
+                    51,129   Short Term Debtors         51,972         
+                   (15,090)  Impairment of Short Term Debtors (13,089)   
+                       -   Corporation Tax Asset           2           
+                    18,779   Cash & Cash Equivalents    51,276         
+                   66,329   Total Current Assets                112,000  
+                                                                       
+                 1,153,477   TOTAL ASSETS                      1,346,433  
+                                                                       
+                         CURRENT LIABILITIES                           
+                   (43,773)  Short Term Borrowing      (77,188)        
+                   (9,104)  Other Short Term Liabilities (8,657)       
+                   (30,765)  Short Term Creditors      (44,413)        
+                      (2) Corporation Tax Liability         -          
+                   (2,082)  Provisions                  (3,420)        
+                   (8,107)  Capital Grants Receipts in Advance (11,243)   
+                   (1,362)  Revenue Grants Receipts in Advance (1,647)   
+                       -   Bank Overdraft                   -          
+                  (95,195)  Total Current Liabilities          (146,568) 
+                                                                       
+                         LONG TERM LIABILITIES                         
+                  (481,663)  Long Term Borrowing       (479,557)       
+                  (235,568)  Other Long Term Liabilities (226,916)     
+                   (4,607)  Long Term Provisions        (4,392)        
+                  (359,082)  Retirement Benefit Obligations (501,165)   
+                (1,080,920)  Total Long Term Liabilities      (1,212,030) 
+                                                                       
+                (1,176,115)  TOTAL LIABILITIES                (1,358,598) 
+                                                                       
+                  (22,638)  NET ASSETS                          (12,165) 
+    
+   Continued overleaf 
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                        122 
+                               STATEMENT OF ACCOUNTS 2016/17 
+                                                         
+                                                           st
+                   GROUP BALANCE SHEET AS AT 31  MARCH 2017 (CONTINUED) 
+      
+                                                                                           
+                     2015/16                                               2016/17    2016/17 
+                                                                                           
+                      £000s                                                 £000s      £000s 
+                                USEABLE RESERVES:                                              
+                        116,127    - General Fund                            122,025            
+                         41,333    - Housing Revenue Account                  42,294            
+                          8,793    - Berneslai Homes Retained Surplus         11,039            
+                         13,443    - Useable Capital Receipts Reserve         11,408            
+                           974    - Major Repairs Reserve                        84             
+                          5,136    - Capital Grant Unapplied Reserve           3,780            
+                       185,806   TOTAL USEABLE RESERVES                                190,630  
+                                                                                                
+                                UNUSABLE RESERVES:                                              
+                            80    - Available for Sale Financial Instruments Reserve 40         
+                         57,329    - Capital Adjustment Account              122,498            
+                            64    - Deferred Capital Receipts Reserve            63             
+                       (12,903)   - Financial Instruments Adjustment Account (12,246)           
+                      (341,067)   - BMBC Pensions Reserve                   (468,206)           
+                       (18,015)   - Berneslai Homes Pensions Reserve         (32,959)           
+                         99,230    - Revaluation Reserve                     179,857            
+                        (1,795)   - Accumulated Absences Account              (4,097)           
+                          8,633    - Collection Fund Adjustment Account       12,255            
+                     (208,444)  TOTAL UNUSABLE RESERVES                              (202,795) 
+                                                                                                
+                       (22,638)  TOTAL RESERVES                                        (12,165) 
+      
+      
+                                                       123 
+                                          STATEMENT OF ACCOUNTS 2016/17 
+       
+                                                  GROUP CASH FLOW STATEMENT 
+       
+               2015/16                                                                                        2016/17         2016/17 
+                                                                                                                                    
+                 £000s                                                                                          £000s           £000s 
+                    13,663   Net (Surplus) / Deficit on Provision of Services                                                   (55,923) 
+                                                                                                                               
+                               Adjustments to Net Surplus or Deficit on The Provision of                                       
+                               Services for Non-Cash Movements: 
+                                                                                                                               
+                   (48,944)    - Depreciation & Impairment                                                         11,155     
+                    (3,902)    - Pension Fund Adjustments                                                         (6,775)    
+                   (45,892)    - Carrying Amount of Non-Current Assets Sold                                      (18,185)    
+                      (585)    - (Increase) / Decrease in Provisions                                              (1,123)    
+                      (168)    - Increase / (Decrease) in Inventories                                                 118     
+                    (1,104)    - Increase / (Decrease) in Debtors                                                 (1,430)    
+                     12,076     - (Increase) / Decrease in Creditors                                              (7,639)    
+                        676     - Other Non-Cash Adjustments                                                          667     
+                  (87,843)                                                                                                      (23,212) 
+                                                                                                                               
+                               Adjustments for Items Included in the Net (Surplus) or Deficit on 
+                               the Provision of Services that are Investing & Financing                                        
+                               Activities: 
+                                                                                                                               
+                     14,106      - Capital Grants Recognised Through Comprehensive Income &                        21,404     
+                                 Expenditure Statement 
+                      9,751      - Proceeds From The Sale of Property, Plant & Equipment, Investment               11,112     
+                                 Property & Intangible Assets 
+                    23,857                                                                                                        32,516  
+                                                                                                                               
+                  (50,323)  Net Cash (Inflow) / Outflow From Operating Activities                                               (46,619) 
+                                                                                                                               
+                     21,325   Net Cash (Inflow) / Outflow From Investing Activities                                                34,638  
+                                                                                                                               
+                     30,759   Net Cash (Inflow) / Outflow From Financing Activities                                              (20,516) 
+                                                                                                                               
+                     1,761   Net (Increase) / Decrease in Cash & Cash Equivalents                                               (32,497) 
+                                                                            
+                                                                            
+                                                                    st
+                     20,540   Cash & Cash Equivalents as at 1  April                                                               18,779  
+                                                                                                                                            
+                     (1,761)  Net Increase / (Decrease) in Cash & Cash Equivalents                                                  32,497  
+                                                                                                                                            
+                                                                     st
+                     18,779   Cash & Cash Equivalents as at 31  March                                                              51,276  
+                                                                                                                                            
+                               Made Up Of The Following Elements:                                                                           
+                         291   Cash Held By The Authority                                                                              197  
+                       1,622   Bank Current Accounts                                                                                 3,790  
+                     16,866   Short Term Deposits With Financial Institutions                                                       47,289  
+                     18,779   Total Cash & Cash Equivalents                                                                        51,276  
+                                                                            
+                                                                         124 
+                                    STATEMENT OF ACCOUNTS 2016/17 
+                                                                   
+                                           NOTES TO THE GROUP ACCOUNTS 
+      
+     Note A – Critical Judgements  
+      
+     The Council has reviewed its relationship and interest with external organisations and concludes that it does have an 
+     interest in subsidiaries, associated companies and joint ventures that are material both individually and in aggregate 
+     and therefore a set of Group Accounts has been prepared.  This consideration has been made under the provisions of 
+     IFRS 10 (‘Consolidated Financial Statements’) and IFRS 11 (‘Joint Arrangements’) as required by the Code. 
+      
+     Note B – Group Boundary 
+      
+     A review has been undertaken by the Council considering all companies in which it has an interest. The interests in 
+     these bodies have been analysed to consider whether the Council has the potential to control or influence the bodies’ 
+     operating and financial policies. Entities identified to be included within the group’s boundary are detailed below: 
+      
+     Berneslai Homes Ltd 
+      
+     Berneslai Homes Ltd is a 100% wholly owned company of the Council and is an Arm’s Length Management 
+     Organisation responsible for managing homes on behalf of the Authority. Specifically, it is responsible for managing all 
+     the landlord services for the Authority’s 18,608 homes including rent collection, arrears recovery, repairs and 
+     maintenance, dealing with empty properties and all tenancy matters. 
+      
+                                                                                                 st          st
+     Financial Year End - Berneslai Homes Ltd shares the same financial year of the Authority (1  April – 31  March). 
+      
+     Consolidation Method - The accounts of Berneslai Homes Ltd have been consolidated on a line by line basis with intra-
+     group balances and transactions being eliminated in full on consolidation as per the Code. 
+      
+     Other Subsidiaries 
+      
+     The Council also 100% owns three other trading companies, namely BMBC Services Ltd, Independent Living at Home 
+     Ltd and Independent Living at Home (Barnsley) Ltd. Whilst the Authority considers these companies as falling within 
+     the group boundary in respect of control, these companies are deemed not material to the group position and are 
+     therefore not consolidated in the Group Accounts. For information on these companies, Note 19 refers. 
+      
+     Note C - Expenditure & Income Analysed By Nature  
+      
+     The Group’s expenditure and income is analysed as follows: 
+      
+                 Expenditure / Income                                                  2015/16         2016/17 
+                                                                                        £000s            £000s 
+                                                                                                             
+                 Expenditure:                                                                                       
+                 Employee Benefits Expenses                                                197,883          202,928  
+                 Other Services Expenses                                                   319,540          305,745  
+                 Support Service Recharges                                                        -               -  
+                 Depreciation, Amortisation, Impairment                                     50,795          (7,434) 
+                 Interest Payments                                                          56,032           55,253  
+                 Precepts & Levies                                                             623              471  
+                 Payments to Housing Capital Receipts Pool                                   1,728            1,682  
+                 Write Out NBV Relating to the Disposal of Assets                           45,892           18,185  
+                 Total Expenditure                                                        672,493          576,830  
+                                                                                                                    
+                 Income:                                                                                            
+                 Fees, Charges & Other Service Income                                    (181,697)        (140,861) 
+                 Interest & Investment Income                                               (1,399)           (650) 
+                 Income From Council Tax & Non-Domestic Rates                            (103,445)        (109,047) 
+                 Government Grants & Contributions                                       (362,730)        (371,338) 
+                 Sale Proceeds Relating to the Disposal of Assets                           (9,559)        (10,857) 
+                 Total Income                                                           (658,830)        (632,753) 
+                                                                                                                    
+                 Surplus or Deficit on the Provision of Services                           13,663         (55,923) 
+      
+      
+      
+      
+      
+                                                                125 
+                     STATEMENT OF ACCOUNTS 2016/17 
+    
+   Note D - Officers’ Remuneration & Exit Packages 
+    
+   The table below sets out the remuneration disclosures for Senior Officers of the Group (as defined in Local Authority 
+   Accounting Panel Bulletin 85) whose salary is equal to or more than £50,000 per year: 
+    
+                                               2016/17 
+             Post            Salary Redundancy Expenses / Pension Total 
+                                    / Severance Allowances Contributions Remuneration 
+                             £000s   £000s    £000s     £000s     £000s 
+   Diana Terris – Chief Executive 155     -        1        20        176  
+   Executive Director – People  125       -        1        16        142  
+   Executive Director – Place   121       -        2        16        139  
+   Executive Director – Communities 109   -        -        14        123  
+   Executive Director – Public Health  104  -      -        15        119  
+   Frances Foster - Director – Finance, Assets 125  92  -   89        306  
+   & IT A 
+   Julia Bell - Director – Human Resources, 79  82  -       27        188  
+   Performance & Communications B 
+   Director of Legal & Governance 105     -        -        14        119  
+   Berneslai Homes Directors C                                        471 
+                                                                         
+    
+   Notes: 
+    
+   A    Post holder left their post on 31st March 2017. Pension contributions for the year include pension strain costs of 
+        £72k. The salary cost includes £20k honoraria for the post holder's duties with SIGOMA. 
+   B    Post holder left their post on 31st December 2016. Pension contributions for the year include pension strain 
+        costs of £17k. 
+   C    Berneslai Homes do not have a requirement to publish this information in their statement of accounts on an 
+        individual basis as per UK GAAP Standard FRS 102. 
+    
+                                               2015/16 
+             Post            Salary Redundancy Expenses / Pension Total 
+                                    / Severance Allowances Contributions Remuneration 
+                             £000s   £000s    £000s     £000s     £000s 
+   Diana Terris – Chief Executive 154     -        1        20        175  
+   Executive Director – People  124       -        -        16        140  
+   Executive Director – Place   118       -        2        15        135  
+   Executive Director – Communities – Up to 52  -  -         7        59  
+   August 2015 A 
+   Executive Director – Communities  – From 61  -  -         8        69  
+   September 2015 A 
+   Executive Director - Public Health  103  -      -        15        118  
+   Director - Finance, Assets & IT  104   -        -        13        117  
+   Director – Human Resources, Performance 104  -  -        13        117  
+   & Communications 
+   Director of Legal & Governance 104     -        -        13        117  
+   Berneslai Homes Directors B                                        454 
+                                                                         
+    
+   Notes: 
+    
+   A     Post holder left in August 2015 and was replaced internally in September 2015. 
+   B     Berneslai Homes do not have a requirement to publish this information in their statement of accounts on an 
+         individual basis as per UK GAAP Standard FRS 102. 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                     126 
+                                          STATEMENT OF ACCOUNTS 2016/17 
+       
+      Note E - Financial Instruments  
+       
+      The following categories of financial instrument are carried in the Balance Sheet: 
+       
+                          st                                                                                      st
+                       31  March 2016                                                                          31  March 2017 
+                  Long Term        Short Term                                                            Long Term         Short Term 
+                    £000s             £000s                                                                £000s              £000s 
+                                                                                                                         
+                                                    Investments :                                                        
+                           2,388            5,066  Loans & Receivables                                            2,393            17,027  
+                                -          16,866  Loans & Receivables – Cash Equivalents *                            -           47,289  
+                           2,431                 -  Unquoted Equity Investment at Cost                            2,431                  -  
+                           9,080                 -  Available For Sale Financial Assets                           7,050                  -  
+                                                                                                                                           
+                         13,899           21,932  Total Investments                                             11,874            64,316  
+                                                                                                                                           
+                                                     Loans & Receivables                                                                   
+                                -                -  Mortgages & Rents                                                  -                 -  
+                           3,648              702  Loans                                                          2,946               676  
+                              64                 -  Finance Lease Receivable                                         63                  -  
+                                                                                                                                           
+                          3,712               702  Total Loans & Receivables **                                  3,009                676  
+                                                                                                                                           
+                                                     Borrowings :                                                                          
+                      (481,663)          (43,773)  Financial Liabilities at Amortised Cost                   (479,557)           (77,188) 
+                                                                                                                                           
+                     (481,663)          (43,773)  Total Borrowings                                          (479,557)           (77,188) 
+       
+      * The total Short Term Investments figure in the table above includes Cash Equivalents of £47.289M in 2016/17 
+      (£16.866M in 2015/16), which are included within the ‘Cash & Cash Equivalents’ figure in the Balance Sheet, rather 
+      than within ‘Short Term Investments’. 
+       
+      ** The total Short Term Loans & Receivables figures in the table above is included within the ‘Short Term Debtors’ 
+      figure in the Balance Sheet. 
+       
+      Note F - Creditors  
+       
+                                       st                                                              st
+                                    31  March 2016                                                  31  March 2017 
+                                         £000s                                                            £000s 
+                                                (1,850)  Central Government Bodies                              (4,090) 
+                                                (1,017)  Other Local Authorities                                  (906) 
+                                                  (905)  NHS Bodies                                               (798) 
+                                                       -   Public Corporations & Trading Funds                         -  
+                                               (26,993)  Other Entities & Individuals                         (38,619) 
+                                                                                                                         
+                                              (30,765)  Total                                                (44,413) 
+       
+                                                                           127 
+                      STATEMENT OF ACCOUNTS 2016/17 
+    
+   Note G - Defined Benefit Pension Schemes  
+    
+           2015/16                                               2016/17 
+                 Unfunded                                 Total Local Unfunded 
+     Total Local Discretionary                            Government Discretionary 
+     Government  Benefits                                  Pension    Benefits 
+    Pension Scheme Arrangements                            Scheme   Arrangements 
+               (Included in Total)                                  (Included in Total) 
+       £000s      £000s                                     £000s     £000s 
+                                                                               
+                          Comprehensive Income & Expenditure Statement:        
+                                                                               
+                          Cost of Services :                            
+          24,509        -     - Current Service Cost          21,613        -  
+            30          -     - Past Service Costs               -          -  
+          (7,323)       -     - Settlements & Curtailments   (1,827)        -  
+            403         -     - Administration Expenses        397          -  
+                                                                              
+                          Financing & Investment Income & Expenditure :       
+          12,745     1,442    - Net Interest Cost             12,439      1,476  
+                                                                              
+         30,364      1,442  Total Post Employment Benefit Charged to the 32,622  1,476  
+                          Surplus or Deficit on the Provision of Services 
+                                                                              
+                          Other Post Employment Benefits Charged to the       
+                          Comprehensive Income & Expenditure Statement : 
+                                                                              
+                          Re-measurement of The Net Benefit Liability Comprising:     
+          20,641        -   - Return on Plan Assets (Excluding The Amount (164,830) -  
+                            Included In Net Interest Expense 
+             -          -   - Experience (Gains) / Losses    (19,458)    (2,000) 
+             -          -   - Actuarial (Gains) and Losses On Changes in (8,749) (196) 
+                            Demographic Assumptions 
+         (71,794)   (1,463) - Actuarial (Gains) and Losses On Changes in 328,347  6,493  
+                            Financial Assumptions 
+                                                                              
+        (51,153)   (1,463) Total Post Employment Benefit Charged to Other 135,310  4,297  
+                          Comprehensive Income & Expenditure 
+                                                                              
+        (20,789)     (21) Total Post Employment Benefit Charged to the 167,932  5,773  
+                          Comprehensive Income & Expenditure Statement 
+    
+           2015/16                                               2016/17 
+     Total Local Unfunded                                 Total Local Unfunded 
+     Government Discretionary                             Government Discretionary 
+      Pension    Benefits                                  Pension   Benefits 
+      Scheme   Arrangements                                Scheme   Arrangements 
+               (Included in Total)                                 (Included in Total) 
+       £000s      £000s                                     £000s     £000s 
+                                                                         
+                          Movement in Reserves Statement:                      
+                                                                               
+                          - Reversal of Charges Made to the Surplus or Deficit for 
+         (30,364)   (1,442)  the Provision of Services for Post-Employment Benefits in (32,622) (1,476) 
+                          Accordance with the Code 
+                                                                               
+                          Actual Amount Charged Against the General Fund       
+                          Balance for Pensions for the Year: 
+                                                                               
+          26,462        -   Employers’ Contributions Payable to Scheme 23,965  -  
+              -      2,658   Retirement Benefits Payable to Pensioners -  2,572  
+                                                                               
+         (3,902)     1,216   Net Adjustment to Surplus or Deficit for the (8,657) 1,096  
+                          Provision of Services 
+    
+    
+    
+    
+    
+    
+    
+                                       128 
+                                           STATEMENT OF ACCOUNTS 2016/17 
+       
+      Pension Assets and Liabilities Recognised in the Balance Sheet 
+       
+                            2015/16                                                                                        2016/17 
+          Total Liabilities:     Unfunded Liabilities:                                                  Total Liabilities:      Unfunded Liabilities: 
+                Local                Discretionary                                                             Local                Discretionary 
+            Government                  Benefits                                                          Government                   Benefits 
+          Pension Scheme             Arrangements                                                       Pension Scheme             Arrangements 
+                                    (Included in Total)                                                                           (Included in Total) 
+                £000s                     £000s                                                               £000s                      £000s 
+                                                                                                                                             
+                 (1,222,960)                    (42,299)  Present Value of The Defined Benefit                 (1,553,363)                     (45,468) 
+                                                            Obligation 
+                     863,878                             -   Fair Value of Plan Assets                           1,052,198                              -  
+                                                                                                                                                          
+                  (359,082)                    (42,299)  Net Liability Arising From                             (501,165)                     (45,468) 
+                                                            Defined Benefit Obligation 
+       
+      Reconciliation of Fair Value of the Scheme (Plan) Assets 
+       
+                          2015/16                                                                                      2016/17 
+            Total Local             Assets:                                                               Total Local              Assets: 
+           Government            Discretionary                                                           Government            Discretionary 
+              Pension               Benefits                                                               Pension                Benefits 
+              Scheme            Arrangements                                                               Scheme             Arrangements 
+                               (Included in Total)                                                                           (Included in Total)  
+               £000s                 £000s                                                                  £000s                  £000s 
+                                                                                                                                        
+                                                                                st
+                 865,313                           -   Opening Balance at 1  April                             863,878                           -  
+                                                                                                                                                   
+                   28,481                          -   Interest Income                                           30,977                          -  
+                                                       Re-measurement Gains and (Losses):                                                          
+                 (20,641)                          -   - The Return on Plan Assets, Excluding the               164,830                          -  
+                                                       Amount Included in Net Interest Expense 
+                     (403)                         -   Administration Expenses                                     (397)                         -  
+                   (1,111)                         -   Settlements                                                 (449)                         -  
+                   26,462                     2,658   Employer Contributions                                     25,849                     2,604  
+                     6,523                         -   Contributions by Scheme Participants                        6,462                         -  
+                 (40,746)                   (2,658)  Benefits Paid                                              (38,952)                  (2,604) 
+                                                                                                                                                   
+                                                                                st
+                 863,878                           -   Closing Balance at 31  March                          1,052,198                           -  
+        
+      Reconciliation of Present Value of the Scheme Liabilities (Defined Benefit Obligation) 
+       
+                          2015/16                                                                                        2016/17 
+                                     Unfunded                                                                                       Unfunded 
+          Total Liabilities:        Liabilities:                                                       Total Liabilities:          Liabilities: 
+                Local              Discretionary                                                              Local              Discretionary 
+            Government                Benefits                                                           Government                  Benefits 
+          Pension Scheme          Arrangements                                                         Pension Scheme            Arrangements 
+                                 (Included in Total)                                                                            (Included in Total) 
+                £000s                  £000s                                                                 £000s                    £000s 
+                                                                                                                                          
+                                                                                 st
+               (1,271,646)                 (44,978)  Opening Balance at 1  April                            (1,222,960)                    (42,299) 
+                                                                                                                                                       
+                    (24,509)                        -   Current Service Cost                                     (21,613)                            -  
+                    (41,226)                 (1,442)  Interest Cost                                              (43,416)                     (1,476) 
+                     (6,523)                        -   Contributions by Scheme Participants                      (6,462)                            -  
+                                                        Re-measurement Gains and (Losses):                                                             
+                            -                       -    - Experience Gains / (Losses)                             19,458                      2,000  
+                            -                       -    - Actuarial Gains / (Losses) Arising From                  8,749                         116  
+                                                        Changes in Demographic Assumptions 
+                      71,794                   1,463    - Actuarial Gains / (Losses) Arising From               (328,347)                     (6,413) 
+                                                        Changes in Financial Assumptions 
+                        (30)                        -   Past Service (Losses) / Gains                                    -                           -  
+                       (916)                        -   Gains / (Losses) Curtailments                               (656)                            -  
+                      40,746                   2,658   Benefits Paid                                               38,952                      2,604  
+                       9,350                        -   Liabilities Extinguished on Settlements                     2,932                            -  
+                                                                                                                                                       
+                                                                                  st
+               (1,222,960)                 (42,299)  Closing Balance at 31  March                           (1,553,363)                    (45,468) 
+                                                                            129 
+                          STATEMENT OF ACCOUNTS 2016/17 
+                             SECTION 7 – GLOSSARY OF TERMS 
+     
+    ACCOUNTING STANDARDS 
+     
+    The Code is based on approved accounting standards and also reflects specific statutory accounting requirements. 
+    Compliance with the Code is therefore necessary (except in exceptional circumstances) in order that an authority’s 
+    accounts give a ‘true and fair’ view of the financial position, financial performance and cash flows of the authority. 
+     
+    The requirements of International Financial Reporting Standards (IFRS) and other pronouncements by the International 
+    Accounting Standards Board in effect for accounting periods commencing on or before 1 January 2015 (as adopted by 
+    the EU) apply unless specifically adapted by the Code. 
+     
+    IFRS's are considered a "principles based" set of standards in that they establish broad rules as well as dictating 
+    specific treatments. 
+     
+    International Financial Reporting Standards comprise: 
+              International Accounting Standards (IAS); 
+              International Financial Reporting Standards (IFRS); 
+              International Financial Reporting Interpretations Committee (IFRIC); and 
+              Standing Interpretations Committee (SIC). 
+     
+    A further set of interpretations, specifically for the Public Sector, are International Public Sector Accounting Standards 
+    (IPSAS). 
+     
+    There are also some UK GAAP accounting standards that remain relevant to Local Authorities as they have no 
+    equivalent standard under IFRS and the Code interprets them accordingly. 
+     
+    The paragraphs below give a brief description of the accounting standards that are referred to in CIPFA's Code of 
+    Practice. Where relevant, interpretations have been grouped with the standard that they are interpreting. 
+     
+    International Accounting Standards (IAS) 
+     
+      Accounting Standard     Description 
+                              IAS 1 prescribes the basis for presentation of general purpose financial statements to 
+      IAS 1 – Presentation of Financial ensure comparability both with the entity’s financial statements of previous periods and 
+      Statements              with the financial statements of other entities. It sets out overall requirements for the 
+                              presentation of financial statements, guidelines for their structure and minimum 
+                              requirements for their content. 
+                              The objective of IAS 2 is to prescribe the accounting treatment for inventories. A primary 
+      IAS 2 – Inventories     issue in accounting for inventories is the amount of cost to be recognised as an asset and 
+                              carried forward until the related revenues are recognised. 
+                              The objective of IAS 7 is to require the provision of information about the historical changes 
+      IAS 7 – Statement of Cash Flows in cash and cash equivalents of an entity by means of a statement of cash flows which 
+                              classifies cash flows during the period from operating, investing and financing activities. 
+                              IAS 8 prescribes the criteria for selecting and changing accounting policies, together with 
+      IAS 8 – Accounting Policies, the accounting treatment and disclosure of changes in accounting policies, changes in 
+      Changes in Accounting Estimates accounting estimates and corrections of errors. The Standard is intended to enhance the 
+      and Errors              relevance and reliability of an entity’s financial statements and the comparability of those 
+                              financial statements over time and with the financial statements of other entities. 
+                              The objective of IAS 10 is to prescribe when an entity should adjust its financial statements 
+      IAS 10 – Events After the for events after the reporting period and the disclosures that an entity should give about 
+      Reporting Period        the date when the financial statements were authorised for issue and about events after the 
+                              reporting period. 
+                              The objective of IAS 11 is to prescribe the accounting treatment of revenue and costs 
+      IAS 11 – Construction Contracts associated with construction contracts. Due to the nature of the activity undertaken in 
+                              construction contracts, the date at which the contract activity is entered into and the date 
+                              when the activity is completed usually fall into different accounting periods. 
+      IAS 12 – Income Taxes   IAS 12 prescribes the accounting treatment for income taxes. 
+                              The objective of IAS 16 is to prescribe the accounting treatment for property, plant and 
+                              equipment so that users of the financial statements can discern information about an 
+      IAS 16 – Property, Plant and entity’s investment in its property, plant and equipment and the changes in such 
+      Equipment               investment. The principal issues in accounting for property, plant and equipment are the 
+                              recognition of the assets, the determination of their carrying amounts and the depreciation 
+                              charges and impairment losses to be recognised in relation to them. 
+                               
+                              The objective of IAS 17 is to prescribe, for lessees and lessors, the appropriate accounting 
+      IAS 17 – Leases         policies and disclosure to apply in relation to leases. The classification of leases adopted in 
+                              this Standard is based on the extent to which risks and rewards incidental to ownership of a 
+                              leased asset lie with the lessor or the lessee. 
+                                             130 
+                     STATEMENT OF ACCOUNTS 2016/17 
+     Accounting Standard Description 
+                         The primary issue in accounting for revenue is determining when to recognise it. Revenue is 
+                         recognised when it is probable that future economic benefits will flow to the entity and 
+     IAS 18 – Revenue    these benefits can be measured reliably. This Standard identifies the circumstances in 
+                         which these criteria will be met and, therefore, revenue will be recognised. It also provides 
+                         practical guidance on the application of these criteria. 
+                         The objective of IAS 19 is to prescribe the accounting and disclosure for employee benefits. 
+                         The Standard requires an entity to recognise a liability when an employee has provided 
+     IAS 19 – Employee Benefits service in exchange for employee benefits to be paid in the future and an expense when the 
+                         entity consumes the economic benefit arising from service provided by an employee in 
+                         exchange for employee benefits. 
+     IAS 20 – Accounting for IAS 20 shall be applied in accounting for, and in the disclosure of, government grants and 
+     Government Grants and Disclosure in the disclosure of other forms of government assistance. 
+     of Government Assistance 
+                         The objective of IAS 21 is to prescribe how to include foreign currency transactions and 
+     IAS 21 – Effects of Changes in foreign operations in the financial statements of an entity and how to translate financial 
+     Foreign Exchange Rates statements into a presentation currency. The principal issues are which exchange rate(s) to 
+                         use and how to report the effects of changes in exchange rates in the financial statements. 
+                         IAS 23 prescribes that borrowing costs that are directly attributable to the acquisition, 
+     IAS 23 – Borrowing Costs construction or production of a qualifying asset form part of the cost of that asset. Other 
+                         borrowing costs are recognised as an expense. Borrowing costs are interest and other costs 
+                         that an entity incurs in connection with the borrowing of funds. 
+                         The objective of IAS 24 is to ensure that an entity’s financial statements contain the 
+     IAS 24 – Related Party Disclosures disclosures necessary to draw attention to the possibility that its financial position and profit 
+                         or loss may have been affected by the existence of related parties and by transactions and 
+                         outstanding balances, including commitments, with such parties. 
+     IAS 26 – Retirement Benefit Plans IAS 26 shall be applied in the financial statements of retirement benefit plans where such 
+                         financial statements are prepared. 
+     IAS 27 – Consolidated and The objective of IAS 27 is to enhance the relevance, reliability and comparability of the 
+     Separate Financial Statements information that a parent entity provides in its separate financial statements and in its 
+                         consolidated financial statements for a group of entities under its control. 
+     IAS 28 – Investments in IAS 28 shall be applied in accounting for investments in associates. 
+     Associates 
+     IAS 29 – Financial Reporting in The objective of IAS 29 is to establish specific standards for entities reporting in the 
+     Hyperinflationary Economies currency of a hyperinflationary economy, so that the financial information provided is 
+                         meaningful. 
+                         IAS 31 shall be applied in accounting for interests in joint ventures and the reporting of 
+     IAS 31 – Interests in Joint joint venture assets, liabilities, income and expenses in the financial statements of 
+     Ventures            venturers and investors, regardless of the structures or forms under which the joint venture 
+                         activities take place. 
+     IAS 32 - Financial Instruments: The objective of IAS 32 is to establish principles for presenting financial instruments as 
+     Presentation        liabilities or equity and for offsetting financial assets and financial liabilities. 
+                         IAS 36 prescribes the procedures that an entity applies to ensure that its assets are carried 
+     IAS 36 – Impairment of Assets at no more than their recoverable amount. An asset is carried at more than its recoverable 
+                         amount if its carrying amount exceeds the amount to be recovered through use or sale of 
+                         the asset. 
+                         The objective of IAS 37 is to ensure that appropriate recognition criteria and measurement 
+     IAS 37 – Provisions, Contingent bases are applied to provisions, contingent liabilities and contingent assets and that 
+     Liabilities and Assets sufficient information is disclosed in the notes to enable users to understand their nature, 
+                         timing and amount. 
+                         The objective of IAS 38 is to prescribe the accounting treatment for intangible assets that 
+                         are not dealt with specifically in another Standard. This Standard requires an entity to 
+     IAS 38 – Intangible Assets recognise an intangible asset if, and only if, specified criteria are met. The Standard also 
+                         specifies how to measure the carrying amount of intangible assets and requires specified 
+                         disclosures about intangible assets. 
+     IAS 39 - Financial Instruments: The objective of IAS 39 is to establish principles for recognising and measuring financial 
+     Recognition & Measurement assets, financial liabilities and some contracts to buy or sell non-financial items.  
+     IAS 40 – Investment Property IAS 40 prescribes the accounting treatment for investment property and related disclosure 
+                         requirements. 
+                         The objective of IAS 41 is to establish standards of accounting for agricultural activity – the 
+     IAS 41 – Agriculture management of the biological transformation of biological assets (living plants and animals) 
+                         into agricultural produce (harvested product of the entity's biological assets). 
+             
+             
+             
+             
+             
+             
+             
+    
+    
+    
+                                     131 
+                     STATEMENT OF ACCOUNTS 2016/17 
+    
+   International Financial Reporting Standards (IFRS) 
+     Accounting Standard Description 
+                        The objective of IFRS 1 is to ensure that an entity’s first IFRS financial statements and its 
+     IFRS 1 – First-Time Adoption of interim financial reports for part of the period covered by those financial statements, contain 
+     International Financial Reporting high quality information that is transparent for users and comparable over all periods 
+     Standards          presented and also provides a suitable starting point for accounting in accordance with 
+                        International Financial Reporting Standards (IFRS’s). 
+                        The objective of IFRS 3 is to specify the financial reporting by an entity when it undertakes a 
+     IFRS 3 – Business Combinations business combination. A business combination is the bringing together of separate entities 
+                        or businesses into one reporting entity 
+     IFRS 4 – Insurance Contracts The objective of IFRS 4 is to specify the financial reporting for insurance contracts by any 
+                        entity that issues such contracts (described in this IFRS as an insurer). 
+     IFRS 5 – Non-Current Assets Held The objective of IFRS 5 is to specify the accounting treatment for assets held for sale, and 
+     for Sale and Discontinued the presentation and disclosure of discontinued operations. 
+     Operations. 
+     IFRS 6 – Exploration for and The objective of this IFRS is to specify the financial reporting arrangements for the 
+     Evaluation of Mineral Resources exploration for and evaluation of mineral resources. 
+     IFRS 7 – Financial Instruments: IFRS 7 identifies requirements for disclosing information about financial instruments. 
+     Disclosures 
+                        The objective of this IFRS is to ensure that an entity shall disclose information to enable 
+     IFRS 8 – Operating Segments users of its financial statements to evaluate the nature and financial effects of the business 
+                        activities in which it engages and the economic environments in which it operates. 
+     IFRS 10 - Consolidated Financial The objective of this IFRS is to establish principles for the presentation and preparation of 
+     Statements         consolidated financial statements when an entity controls one or more other entities. 
+                        The core principle of this IFRS is that a party to a joint arrangement determines the type of 
+     IFRS 11 - Joint Arrangements joint arrangement in which it is involved by assessing its rights and obligations and accounts 
+                        for those rights and obligations in accordance with that type of joint arrangement. 
+                        The objective of this IFRS is to require the disclosure of information that enables users of 
+     IFRS 12 - Disclosure in Other financial statements to evaluate the nature of, and risks associated with, its interests in 
+     Entities           other entities and the effects of those interests on its financial position, financial 
+                        performance and cash flows. 
+                        The objective of this IFRS is to provide a clear definition of fair value, set out in a single 
+     IFRS 13 - Fair Value Measurement   IFRS, a framework for measuring fair value and the requirements for disclosures about fair 
+                        value measurements. 
+    
+   Standing Interpretations Committee (SIC) 
+     Accounting Standard Description 
+     SIC 12 - Consolidation - Special SIC-12 addresses when a special purpose entity should be consolidated by a reporting 
+     Purpose Entities   enterprise under the consolidation principles in IAS 27. 
+                        SIC-15 clarifies the recognition of incentives related to operating leases by both the lessee 
+     SIC 15 - Operating Leases: and lessor. The Interpretation indicates that lease incentives (such as rent-free periods or 
+     Incentives         contributions by the lessor to the lessee's relocation costs) should be considered an integral 
+                        part of the consideration for the use of the leased asset. 
+                        A change in the tax status of an enterprise or its shareholders, e.g. due to an initial public 
+     SIC 25 - Income Taxes: Changes offering or restructuring, does not give rise to increases or decreases in the pre-tax amounts 
+     in the Tax Status of an Entity or its recognised directly in equity. Therefore, SIC-25 concludes that the current and deferred tax 
+     Shareholders       consequences of the change in tax status should be included in net profit or loss for the 
+                        period. 
+     SIC 27 - Evaluating the Substance Among the provisions of SIC- 27 is the accounting arrangements for arrangements between 
+     of Transactions Involving The Legal an enterprise and an investor should reflect the substance of the arrangement. All aspects of 
+     Form of a Lease    the arrangement should be evaluated to determine its substance, with weight given to those 
+                        aspects and implications that have an economic effect. 
+                        SIC-29 prescribes the information that should be disclosed in the notes to the financial 
+                        statements of a concession operator and a concession provider when the two parties are 
+     SIC 29 - Disclosure - Service joined by a service concession arrangement. A service concession arrangement exists when 
+     Concession Arrangements an enterprise (the concession operator) agrees with another enterprise (the concession 
+                        provider) to provide services that give the public access to major economic and social 
+                        facilities. 
+                        Under SIC-31, revenue from a barter transaction involving advertising cannot be measured 
+     SIC 31 - Barter Transactions reliably at the fair value of advertising services received. However, a seller can reliably 
+     involving Web Site Costs measure revenue at the fair value of the advertising services it provides in a barter 
+                        transaction. 
+     SIC 32 - Intangible Assets: Web SIC-32 concludes that a website developed by an entity using internal expenditure, whether 
+     Site Costs         for internal or external access, is an internally generated intangible asset that is subject to 
+                        the requirements of IAS 38 - Intangible Assets. 
+    
+    
+    
+    
+    
+                                     132 
+                     STATEMENT OF ACCOUNTS 2016/17 
+   International Financial Reporting Interpretations Committee (IFRIC) 
+     Accounting Standard Description 
+     IFRIC 1 - Changes in Existing IFRIC 1 contains guidance on accounting for changes in decommissioning, restoration and 
+     Decommissioning, Restoration & similar liabilities that have previously been recognised both as part of the cost of an item of 
+     Similar Liabilities property, plant and equipment under IAS 16 and as a provision (liability) under IAS 37. 
+                        IFRIC 3 focuses on the accounting to be adopted by participants in a 'cap and trade' scheme 
+     IFRIC 3 - Emissions Rights in respect of carbon emissions, although some of its requirements might be relevant to 
+                        other schemes that are also designed to encourage reduced levels of emissions and share 
+                        some of the features of a cap and trade scheme. 
+                        The objective of IFRIC 4 is to specify criteria by which an arrangement, that does not take 
+     IFRIC 4 – Determining Whether the legal form of a lease but which convey rights to use assets in return for a payment or 
+     an Arrangement Contains a Lease. series of payments, is to be assessed. An arrangement that meets the criteria or contains a 
+                        lease that should be accounted for in accordance with IAS 17 - Leases. 
+     IFRIC 5 - Rights to Interest IFRIC 5 discusses how a contributor should account for its interest in a fund and when a 
+     Arising From Decommissioning, contributor has an obligation to make additional contributions, how the obligation should be 
+     Restoration & Environmental accounted for. 
+     Rehabilitation Funds 
+     IFRIC 6 - Liabilities Arising From IFRIC 6 addresses the arrangements where an entity has an obligation to contribute to 
+     Participating in a Specific Market-waste management costs based on its share of the market in a measurement period and 
+     Waste Electrical & Electronic highlights what is the event under IAS 37 that gives rise to a liability. 
+     Equipment 
+     IFRIC 7 - Applying the 
+     Restatement Approach Under IAS IFRIC 7 contains guidance on how an entity would restate its financial statements in the first 
+     29 -  Financial Reporting in year it identifies the existence of hyperinflation in the economy of its functional currency. 
+     Hyperinflationary Economies 
+                        IFRIC 9 addresses whether IAS 39 requires such an assessment to be made only when the 
+                        entity first becomes a party to the hybrid contract, or whether the assessment be 
+     IFRIC 9 - Reassessment of reconsidered throughout the life of the contract. It also dictates whether a first-time adopter 
+     Embedded Derivatives of IFRSs should make its assessment on the basis of the conditions that existed when the 
+                        entity first became a party to the contract, or those prevailing when the entity adopts IFRSs 
+                        for the first time. 
+                        IFRIC 12 sets out the accounting treatment of service concessions. Service concessions 
+                        primarily involve a private sector organisation utilising / constructing a fixed asset and 
+     IFRIC 12 – Service Concession providing services from that asset, on behalf of a public sector organisation. The accounting 
+     Arrangements       treatment of these assets is determined by the actual substance of the concession, in terms 
+                        of which party holds effective control throughout the term, rather than legal ownership of 
+                        those assets. 
+                        IFRIC 14 addresses the interaction between a minimum funding requirement and the limit 
+     IFRIC 14 - The Limit on a Defined stipulated by IAS 19 on the measurement of the defined benefit asset or liability. When 
+     Benefit Asset, Minimum Funding determining the limit on a defined benefit asset in accordance with IAS 19, under IFRIC 14, 
+     Requirements and Their Interaction entities are required to measure any economic benefits available to them in the form of 
+     (IAS 19 - Employee Benefits) refunds or reductions in future contributions at the maximum amount that is consistent with 
+                        the terms and conditions of the plan and any statutory requirements in the jurisdiction of 
+                        the plan.  
+                        IFRIC 16 clarifies that the presentation currency does not create an exposure to which an 
+                        entity may apply hedge accounting, that the hedging instrument(s) may be held by any 
+     IFRIC 16 - Hedges of a Net entity or entities within the group and that while IAS 39 must be applied to determine the 
+     Investment in a Foreign Operation amount that needs to be reclassified to profit or loss from the foreign currency translation 
+                        reserve in respect of the hedging instrument, IAS 21 must be applied in respect of the 
+                        hedged item. 
+    
+   UK GAAP 
+     Accounting Standard Description 
+                        The objective of this FRS is to ensure that enhanced disclosures apply to all heritage assets, 
+     FRS 30 - Heritage Assets regardless of whether they are reported in the Balance Sheet and that where information is 
+                        available on cost or value, heritage assets are reported in the Balance Sheet. 
+                        In the UK, VAT is a tax on the supply of goods and services that is eventually borne by the 
+                        final consumer but collected at each stage of the production and distribution chain. As a 
+     SSAP 5 - Accounting for Value general principle, therefore, the treatment of VAT in the accounts of a trader should reflect 
+     Added Tax          his role as a collector of the tax and VAT should not be included in income or in expenditure 
+                        whether of a capital or revenue nature. There will, however, be circumstances in which a 
+                        trader will bear the VAT, and in such cases where the VAT is irrecoverable, it should be 
+                        included in the cost of the items reported in the financial statements. 
+                                     133 
+                     STATEMENT OF ACCOUNTS 2016/17 
+   International Public Sector Accounting Standards (IPSAS) 
+     Accounting Standard Description 
+     IPSAS 1 - Presentation of Financial  Public Sector interpretation of IAS 1 (see above). 
+     Statements 
+     IPSAS 2 - Cash Flow Statements Public Sector interpretation of IAS 7 (see above). 
+     IPSAS 3 - Accounting Policies, 
+     Changes in Accounting Estimates Public Sector interpretation of IAS 8 (see above). 
+     and Errors 
+     IPSAS 4 - Effects of Changes in Public Sector interpretation of IAS 21 (see above). 
+     Foreign Exchange Rates 
+     IPSAS 5 - Borrowing Costs Public Sector interpretation of IAS 23 (see above). 
+     IPSAS 6 - Consolidated and Public Sector interpretation of IAS 27 (see above). 
+     Separate Financial Statements 
+     IPSAS 7 - Investments in Public Sector interpretation of IAS 28 (see above). 
+     Associates 
+     IPSAS 8 - Interests in Joint Public Sector interpretation of IAS 31 (see above). 
+     Ventures 
+     IPSAS 9 - Revenue From The objective of IPSAS 9 is to prescribe the accounting treatment for revenue arising from 
+     Exchange Transactions exchange transactions and events. 
+     IPSAS 10 - Financial Reporting in Public Sector interpretation of IAS 29 (see above). 
+     Hyperinflationary Economies 
+     IPSAS 11 - Construction Contracts Public Sector interpretation of IAS 11 (see above). 
+     IPSAS 12 - Inventories Public Sector interpretation of IAS 2 (see above). 
+     IPSAS 13 - Leases  Public Sector interpretation of IAS 17 (see above). 
+     IPSAS 14 - Events After the Public Sector interpretation of IAS 10 (see above). 
+     Reporting Period 
+     IPSAS 16 - Investment Property Public Sector interpretation of IAS 40 (see above). 
+     IPSAS 17 - Property, Plant and Public Sector interpretation of IAS 16 (see above). 
+     Equipment 
+     IPSAS 19 - Provisions, Contingent Public Sector interpretation of IAS 37 (see above). 
+     Liabilities and Assets 
+     IPSAS 20 - Related Party Public Sector interpretation of IAS 24 (see above). 
+     Disclosures 
+     IPSAS 21 - Impairment of Non The objective of IPSAS 21 is to ensure that non cash-generating assets are carried at no 
+     Cash Generating Assets more than their recoverable service amount, and to prescribe how recoverable service 
+                        amount is calculated. 
+     IPSAS 23 – Revenue From Non-IPSAS 23 addresses recognition and measurement of revenue from taxes, recognition of 
+     Exchange Transactions (Taxes & revenue from transfers, which include grants from other governments and international 
+     Transfers)         organisations, gifts and donations and how conditions and restrictions on the use of 
+                        transferred resources are to be reflected in the financial statements. 
+     IPSAS 25 - Employee Benefits Public Sector interpretation of IAS 19 (see above). 
+                        The objective of IPSAS 26 is to prescribe the procedures that an entity applies to determine 
+     IPSAS 26 -  Impairment of Cash whether a cash-generating asset is impaired and to ensure that impairment losses are 
+     Generating Assets  recognised. This standard also specifies when an entity shall reverse an impairment loss and 
+                        prescribes disclosures. 
+     IPSAS 27 - Agriculture Public Sector interpretation of IAS 41 (see above). 
+     IPSAS 28 - Financial Instruments: Public Sector interpretation of IAS 32 (see above). 
+     Presentation 
+     IPSAS 29 - Financial Instruments: Public Sector interpretation of IAS 39 (see above). 
+     Recognition & Measurement 
+     IPSAS 30 - Financial Instruments: Public Sector interpretation of IFRS 7 (see above). 
+     Disclosures 
+     IPSAS 31 - Intangible Assets Public Sector interpretation of IAS 38 (see above). 
+     IPSAS 32 - Service Concession The objective of IPSAS 32 is to prescribe the accounting for service concession 
+     Arrangements: Grantor arrangements by the grantor, a public sector entity. 
+    
+                                     134 
+                            STATEMENT OF ACCOUNTS 2016/17 
+    KEY DEFINITIONS 
+     
+    Terms Used                  Definition of Terms 
+    Accrual                     The accruals concept requires that the cost or benefit of a transaction is shown in the period in which the 
+                                goods or services are received or provided, rather than when the cash is paid or received. 
+    Actuarial Basis             The estimation technique applied when estimating the liabilities to be recognised for defined benefit pension 
+                                schemes in the financial statements of an organisation. 
+    Amortisation                The term used to describe the charge made for the cost of using intangible assets. The charge for the year 
+                                will represent the consumption of economic benefit. 
+    Asset                       Right or other access to future economic benefits. 
+    Budgets                     A statement of the Authority’s forecast spend - i.e. net revenue expenditure for the year. 
+    Capital Expenditure         Expenditure on the acquisition of a non-current asset or expenditure that adds to and not merely maintains 
+                                the value of an existing non-current asset. 
+    Capital Grant               A grant that is intended to fund capital expenditure. 
+    Capital Receipts            Proceeds or money received from the sale of land or other capital assets. 
+    Carbon Reduction Commitment  Cap and trade scheme aimed at improving the impact of local authority carbon emissions. 
+                                These are assets that the Authority intends to hold in perpetuity, which have an indeterminable useful life 
+    Community Assets            and in addition, may have restrictions on their disposal. Examples include parks, historic buildings and 
+                                cemeteries. 
+    Community Schools           Schools which the Authority operates, employ the staff and normally owns and maintains the land and 
+                                buildings. 
+    Comprehensive Spending Review (CSR) A governmental process in the carried out by HM Treasury firm expenditure limits and, through public 
+                                service agreements and define the key improvements that the public can expect from these resources. 
+    Contingent Liability        A condition which exists at the Balance Sheet date, which may arise in the future but where the outcome 
+                                will be confirmed only on the occurrence or non-occurrence of one or more future events. 
+                                Also known as a final salary scheme. Pension scheme arrangement where the benefits payable to members 
+    Defined Benefit Scheme      are determined by the scheme rules. In most cases, there is a compulsory members' contribution but over 
+                                and above this, all costs of meeting the quoted benefits are the responsibility of the employer. 
+    Depreciation                The measure of the wearing out, consumption, or other reduction in the economic life of a fixed asset, 
+                                whether arising from use, passage of time or obsolescence through technological or other changes. 
+    De-recognition              The process upon assets are no longer deemed to be controlled by the Authority either by sale, demolition 
+                                or any other form of disposal. 
+    Earmarked Reserves          Reserve balances that have been set aside for future spending in a specific service area. 
+    Exceptional Item            Events which are material in terms of the Authority's overall expenditure and are not expected to recur 
+                                frequently or regularly. 
+    Fair Value                  Usually the amount that would be paid for an asset in an active market. However, where there is no market 
+                                for a certain asset e.g. a school, other methods to determine fair value are used. 
+                                A method of acquiring non-current assets where under the lease agreement all the risks and rewards of 
+    Finance Lease               ownership of a fixed asset are substantially transferred to the Authority, in return for rental payments to the 
+                                legal owner of the asset. 
+    Non-Current Assets          These are tangible assets used by the Authority in the provision of services that yield benefits to the 
+                                Authority for a period of more than one year. 
+                                This comprises all services provided by the Authority with the exception of services relating to the provision 
+    General Fund Services       of local Authority housing which are accounted for in the Housing Revenue Account. The net cost of General 
+                                Fund services is met by Council Tax, Government Grants and Non-Domestic Rates. 
+    Historic Cost               This represents the original cost of acquisition, construction or purchase of a non-current asset. 
+                                This account includes all revenue expenditure and income relating to the provision, maintenance and 
+    Housing Revenue Account     administration of Authority housing. It is a statutory requirement that the account be maintained separately 
+                                (‘ringfenced’) from General Fund services. 
+    IFRS                        ‘International Financial Reporting Standards’ (IFRS) are statements issued by the International Accounting 
+                                Standards Board (IASB) that seek to ensure consistency in the treatment of accounting issues. 
+    Impairment                  A reduction in the value of a non-current asset caused by general changes in market values or consumption 
+                                of economic benefits. 
+                                These are inalienable assets (i.e. assets where ownership cannot be transferred) from which benefit can be 
+    Infrastructure Assets       obtained only by continued use of the asset created. Examples of such assets are highways, footpaths and 
+                                bridges. 
+    Intangible Assets           Non Current Assets which do not have physical form, such as software. 
+    Liabilities                 An obligation to transfer economic benefits. 
+    Major Repairs Allowance     A revenue grant received which is used to finance major housing repairs. 
+    Major Repairs Reserve       The Major Repairs Reserve (MRR) is a reserve established in 2001/02 to which the Authority’s Major Repairs 
+                                Allowance is transferred. The balance on the MRR is used to finance major housing repairs in future years. 
+    Materiality                 Materiality is an expression of the relative significance or importance of a particular matter in the context of 
+                                the financial statement as a whole. 
+                                This is the minimum amount that must be charged to the Authority’s Comprehensive Income and 
+    Minimum Revenue Provision   Expenditure Statement each year to provide for the repayment of loans used to finance capital expenditure. 
+                                The minimum amount is a percentage of the total Capital Financing Requirement. 
+                                This represents the cost of replacing or recreating a particular asset in its existing condition and in its 
+    Net Current Replacement Cost existing use. That is the cost of replacing an asset, adjusted to reflect the current condition of the existing 
+                                asset. 
+    Net Realisable Value        The open market value of an asset in its existing use less any expenses incurred in realising the asset. 
+    Non-Distributed Costs       The value of revenue operating expenditure that is not able to be apportioned to one of the Authority's 
+                                service areas. 
+    Non-Domestic Rates          These are business rates collected locally by the Authority but paid into a national pool. The rates are 
+                                subsequently redistributed by Central Government as a grant to fund local authority services. 
+    Operating Lease             A lease other than a finance lease. 
+    Operational Assets          These are non-current assets held and occupied, used or consumed by the Authority in the direct delivery of 
+                                those services for which it has a responsibility. 
+                                                 135 
+                        STATEMENT OF ACCOUNTS 2016/17 
+   Precepts                 The proportion of total Council Tax that is due to local parishes and various authorities e.g. the Police, Fire 
+                            and Civil Defence Authorities and which is collected on their behalf by the Authority. 
+   Private Finance Initiative (PFI) A Government initiative that enables, through the provision of financial support, authorities to carry out 
+                            capital projects through partnership with the private sector. 
+   Provisions               Potential costs that the Authority may incur in future years, based on a past event which is likely to be 
+                            incurred and a reliable estimate can be made. 
+   Public Works Loan Board  A Government agency that provides long term loans to local authorities at interest rates lower than 
+                            prevailing market rates. 
+   Recharges                The transfer of costs within the Authority from one account to another to reflect work undertaken on behalf 
+                            of another service. 
+   Recognition              The process upon which assets are deemed to belong to the Authority either by means of purchase, 
+                            construction or other form of acquisition. 
+                            Revenue reserves are amounts set aside from balances to meet specific items of future expenditure. Certain 
+   Reserves                 other reserves are kept to manage the accounting processes for non-current assets and retirement benefits 
+                            and do not represent useable resources for the Authority. 
+   Revenue Contributions    A method of financing capital expenditure through the Comprehensive Income and Expenditure Statement. 
+   Revenue Expenditure      This represents day to day running costs incurred in the provision of Authority services. Such costs include 
+                            employee costs and supplies and services. 
+   Revenue Support Grant    A grant paid to the Authority by Central Government to finance the Authority’s general expenditure ‘needs’ 
+                            and not specific services, after taking into account the level of Council Tax and NNDR income. 
+   Service Expenditure Reporting Code of Establishes 'proper practice' with regard to consistent financial reporting, which allows direct comparisons to 
+   Practice (SERCOP)        be made with the financial information published by other local authorities. 
+   Useful Economic Life     The period which as asset is expected to be useful to the Authority in its current state. 
+   Value Added Tax (VAT)    National taxation charged on goods and services. 
+   Voluntary Aided Schools  Schools which are generally religious or faith schools where the governing body employs the staff and sets 
+                            the admission criteria. Land and buildings are normally owned by a charitable foundation. 
+                            Schools which the Authority run in terms of employing staff, setting admission criteria and maintaining land 
+   Voluntary Controlled Schools and buildings. The ownership of such assets usually resides with a charity who appoints members to the 
+                            governing body. 
+   Working Balances         This represents the accumulated surplus (excess of income over expenditure) on the Authority’s revenue 
+                            accounts (i.e. General Fund and Housing Revenue Account). 
+     
+                                          136 

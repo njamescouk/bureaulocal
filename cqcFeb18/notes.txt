@@ -1,0 +1,181 @@
+start with 1 February 2018 Latest ratings.xlsx
+
+1 - Active locations, by latest published rating
+2 - Registered providers, by latest published rating
+Source: CQC database as at 1 February 2018
+
+not sure of active locations / registered providers split. is one a subset of the other?
+have more or less normalised locations sheet
+
+have extracted counts of outstanding, good etc of overall judgements for all
+locations by local authority.
+
+open in libre office 5
+format dates YYYY-MM-DD
+save as ods
+save as locations.csv and providers.csv
+
+
+/* recreate "providersRaw" from normalised tables
+
+"Location ID" TEXT,
+"Location Name" TEXT,
+"Care Home?" TEXT,
+"Location Type" TEXT,
+"Location Primary Inspection Category" TEXT,
+"Location Street Address" TEXT,
+"Location Address Line 2" TEXT,
+"Location City" TEXT,
+"Location Post Code" TEXT,
+"Location Local Authority" TEXT,
+"Location Region" TEXT,
+"Location ONSPD CCG Code" TEXT,
+"Location ONSPD CCG" TEXT,
+"Location Commissioning CCG Code" TEXT,
+"Location Commissioning CCG Name" TEXT,
+"Service / Population Group" TEXT,
+"Key Question" TEXT,
+"Latest Rating" TEXT,
+"Publication Date" TEXT,
+"Report Type" TEXT,
+"URL" TEXT,
+"Provider ID" TEXT,
+"Provider Name" TEXT,
+"Brand ID" TEXT,
+"Brand Name" TEXT
+*/
+SELECT code AS "Location ID",
+locationNameAddress.name AS "Location Name",  
+CASE WHEN locationIsCareHome.trueFalse THEN 'Y' ELSE 'N' END AS "Care Home?",
+locationType.name AS "Location Type",
+locationInspectionCategory.name AS "Location Primary Inspection Category",
+locationNameAddress.line1 AS "Location Street Address",
+locationNameAddress.line2 AS "Location Address Line 2",
+locationNameAddress.city AS "Location City",
+locationNameAddress.postCode AS "Location Post Code",
+locationLocalAuthority.name AS "Location Local Authority",
+locationRegion.name AS "Location Region",
+/*
+"Location ONSPD CCG Code" TEXT,
+"Location ONSPD CCG" TEXT,
+"Location Commissioning CCG Code" TEXT,
+"Location Commissioning CCG Name" TEXT,
+"Service / Population Group" TEXT,
+"Key Question" TEXT,
+"Latest Rating" TEXT,
+"Publication Date" TEXT,
+"Report Type" TEXT,
+"URL" TEXT,
+"Provider ID" TEXT,
+"Provider Name" TEXT,
+"Brand ID" TEXT,
+"Brand Name" TEXT
+*/
+*
+FROM locationNameAddress
+JOIN locationIsCareHome USING(code)
+JOIN locationType USING(code)
+JOIN locationInspectionCategory USING(code)
+JOIN locationLocalAuthority USING(code)
+JOIN locationRegion USING(code)
+
+
+
+/* recreate "providersRaw" from normalised tables
+
+"Location ID" TEXT,
+"Location Name" TEXT,
+"Care Home?" TEXT,
+"Location Type" TEXT,
+"Location Primary Inspection Category" TEXT,
+"Location Street Address" TEXT,
+"Location Address Line 2" TEXT,
+"Location City" TEXT,
+"Location Post Code" TEXT,
+"Location Local Authority" TEXT,
+"Location Region" TEXT,
+"Location ONSPD CCG Code" TEXT,
+"Location ONSPD CCG" TEXT,
+"Location Commissioning CCG Code" TEXT,
+"Location Commissioning CCG Name" TEXT,
+"Service / Population Group" TEXT,
+"Key Question" TEXT,
+"Latest Rating" TEXT,
+"Publication Date" TEXT,
+"Report Type" TEXT,
+"URL" TEXT,
+"Provider ID" TEXT,
+"Provider Name" TEXT,
+"Brand ID" TEXT,
+"Brand Name" TEXT
+*/
+
+
+
+
+/* recreate "providersRaw" from normalised tables
+
+"Location ID" TEXT,
+"Location Name" TEXT,
+"Care Home?" TEXT,
+"Location Type" TEXT,
+"Location Primary Inspection Category" TEXT,
+"Location Street Address" TEXT,
+"Location Address Line 2" TEXT,
+"Location City" TEXT,
+"Location Post Code" TEXT,
+"Location Local Authority" TEXT,
+"Location Region" TEXT,
+"Location ONSPD CCG Code" TEXT,
+"Location ONSPD CCG" TEXT,
+"Location Commissioning CCG Code" TEXT,
+"Location Commissioning CCG Name" TEXT,
+"Service / Population Group" TEXT,
+"Key Question" TEXT,
+"Latest Rating" TEXT,
+"Publication Date" TEXT,
+"Report Type" TEXT,
+"URL" TEXT,
+"Provider ID" TEXT,
+"Provider Name" TEXT,
+"Brand ID" TEXT,
+"Brand Name" TEXT
+*/
+SELECT locationNameAddress.code AS "Location ID",
+locationNameAddress.name AS "Location Name",  
+CASE WHEN locationIsCareHome.trueFalse THEN 'Y' ELSE 'N' END AS "Care Home?",
+locationType.name AS "Location Type",
+locationInspectionCategory.name AS "Location Primary Inspection Category",
+locationNameAddress.line1 AS "Location Street Address",
+locationNameAddress.line2 AS "Location Address Line 2",
+locationNameAddress.city AS "Location City",
+locationNameAddress.postCode AS "Location Post Code",
+locationLocalAuthority.name AS "Location Local Authority",
+locationRegion.name AS "Location Region",
+locationONSPDCCGCode.ONSCCGCode AS "Location ONSPD CCG Code",
+ONSPDCCGCode.name AS "Location ONSPD CCG",
+locationCommissioningCCGCode."commissioningCCGCode" AS "Location Commissioning CCG Code",
+commissioningCCGCode.name AS "Location Commissioning CCG Name",
+/*
+"Service / Population Group" TEXT,
+"Key Question" TEXT,
+"Latest Rating" TEXT,
+"Publication Date" TEXT,
+"Report Type" TEXT,
+"URL" TEXT,
+"Provider ID" TEXT,
+"Provider Name" TEXT,
+"Brand ID" TEXT,
+"Brand Name" TEXT
+*/
+*
+FROM locationNameAddress
+JOIN locationIsCareHome ON locationNameAddress.code=locationIsCareHome.code
+JOIN locationType ON locationNameAddress.code=locationType.code
+JOIN locationInspectionCategory ON locationNameAddress.code=locationInspectionCategory.code
+JOIN locationLocalAuthority ON locationNameAddress.code=locationLocalAuthority.code
+JOIN locationRegion ON locationNameAddress.code=locationRegion.code
+JOIN locationONSPDCCGCode ON locationONSPDCCGCode.locationCode=locationNameAddress.code
+JOIN ONSPDCCGCode ON ONSPDCCGCode.code=locationONSPDCCGCode.ONSCCGCode
+JOIN locationCommissioningCCGCode ON locationNameAddress.code=locationCommissioningCCGCode.locationCode
+JOIN commissioningCCGCode ON locationCommissioningCCGCode.commissioningCCGCode=commissioningCCGCode.code

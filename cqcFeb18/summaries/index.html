@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Nick James" />
+  <meta name="dcterms.date" content="2018-02-05" />
+  <title>summary of cqc inspection spreadsheet for Feb 2018</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="summaries.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">summary of cqc inspection spreadsheet for Feb 2018</h1>
+<p class="author">Nick James</p>
+<p class="date">2018-02-05</p>
+</header>
+<hr />
+<h2 id="extracts-of-cqc-data">Extracts of <a href="https://www.cqc.org.uk">cqc data</a></h2>
+<p>starting with <a href="https://www.cqc.org.uk/sites/default/files/1%20February%202018%20Latest%20ratings.xlsx">1 February 2018 Latest ratings.xlsx</a></p>
+<p>Two sheets</p>
+<ul>
+<li>1 - Active locations, by latest published rating</li>
+<li>2 - Registered providers, by latest published rating</li>
+</ul>
+<p>Source: CQC database as at 1 February 2018</p>
+<p>have converted this to an sqlite database</p>
+<p>not sure of active locations / registered providers split. is one a subset of the other? have more or less normalised locations sheet but left providers alone. no foreign keys done.</p>
+<p>have extracted counts of outstanding, good etc of overall judgements for all locations by local authority, derived from locations table.</p>
+<p>have also produced html and csv of brands -&gt; locations and brands -&gt; providers again derived from locations table so not comprehensive but a bit of an eye opener to me at least.</p>
+<p>understanding this requires an understanding of the cqc’s method of reporting. I don’t fully understand it and life’s too short. basically there are various Services which are rated (ambulance, chemo etc) then an Overall service bunged in. Then there are “Key Questions” which are things like Caring, Effective etc which also have an Overall bunged in. the rating is Outstanding, Good etc. any combination of “Service” and “Key Question” has a result in the “Outstanding” “Good” … space. the result is a combinatorial explosion of limited value but there you go.</p>
+<p>repo on github if you want the database / methodology. windows based I’m afraid and with dependencies…</p>
+<p>have provided links to csvs should you want a spreadsheet. the branding ones will need to have row height opened right up in order to see deatils.</p>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>### Local authority ratings</td>
+</tr>
+<tr class="even">
+<td>have extracted counts of outstanding, good etc of overall judgements for all locations by local authority. could do with computing as %age of total number of ratings for an easy comparison; can do if anyone that interested.</td>
+</tr>
+<tr class="odd">
+<td><iframe width="90%" src="cqcFeb15RatingByLA.html"></iframe></td>
+</tr>
+<tr class="even">
+<td><a href="cqcFeb15RatingByLA.html">full size</a> <a href="cqcFeb15RatingByLA.csv" download="download" >csv</a></td>
+</tr>
+</tbody>
+</table>
+<p>all inadequate ratings showing brand, provider address</p>
+<iframe width="90%" src="inadequateReports.html">
+</iframe>
+<p><a href="inadequateReports.html">full size</a> <a href="inadequateReports.csv" download="download" >csv</a></p>
+<hr />
+<p>as above but with “Key Question” limited to Overall</p>
+<iframe width="90%" src="overallInadequateReports.html">
+</iframe>
+<p><a href="overallInadequateReports.html">full size</a> <a href="overallInadequateReports.csv" download="download" >csv</a></p>
+<hr />
+<p>health care brands and their locations from locations sheet</p>
+<iframe width="90%" src="groupedBrandsAndLocations.html">
+</iframe>
+<p><a href="groupedBrandsAndLocations.html">full size</a> <a href="groupedBrandsAndLocations.csv" download="download" >csv</a></p>
+<hr />
+<p>health care brands and their providers from locations sheet</p>
+<iframe width="90%" src="groupedBrandsAndProviders.html">
+</iframe>
+<p><a href="groupedBrandsAndProviders.html">full size</a> <a href="groupedBrandsAndProviders.csv" download="download" >csv</a></p>
+<hr />
+</body>
+</html>
